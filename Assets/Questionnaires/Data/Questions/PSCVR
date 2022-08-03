@@ -1,0 +1,444 @@
+{
+   "qTitle":"Questionnaire",
+   "qInstructions":"Instructions: Please answer all 14 questions by clicking a point on the scale that best represents your experience with the task in the virtual environment (VE)",
+   "qId":"PSCVR",
+   "questions":[
+      {
+         "pId":"page1",
+         "qType":"radio",
+         "qInstructions":"Please choose one of the following options...",
+         "qData":[
+            {
+               "qId":"q1",
+               "qText":"I noticed (my partner):",
+               "qMandatory":"true",
+               "qOptions":[
+                  "Strongly disagree",
+                  "Disagree",
+                  "Somewhat disagree",
+                  "Neither agree nor disagree",
+                  "Somewhat agree",
+                  "Agree",
+                  "Strongly agree"
+               ]
+            },
+            {
+               "qId":"q2",
+               "qText":"(My Partner) noticed me",
+               "qMandatory":"true",
+               "qOptions":[
+                   "Strongly disagree",
+                   "Disagree",
+                   "Somewhat disagree",
+                   "Neither agree nor disagree",
+                   "Somewhat agree",
+                   "Agree",
+                   "Strongly agree"
+               ]
+            },
+            {
+               "qId":"q3",
+               "qText":"(My Partner's) presence was obvious to me",
+               "qMandatory":"true",
+               "qOptions":[
+                   "Strongly disagree",
+                   "Disagree",
+                   "Somewhat disagree",
+                   "Neither agree nor disagree",
+                   "Somewhat agree",
+                   "Agree",
+                   "Strongly agree"
+               ]
+            }
+         ]
+      },
+      {
+         "pId":"page2",
+         "qType":"radio",
+         "qInstructions":"Please choose one of the following options...",
+         "qMandatory":"true",
+         "qData":[
+            {
+               "qId":"q4",
+               "qText":"My presence was obvious to (my partner)",
+               "qMandatory":"true",
+               "qOptions":[
+                   "Strongly disagree",
+                   "Disagree",
+                   "Somewhat disagree",
+                   "Neither agree nor disagree",
+                   "Somewhat agree",
+                   "Agree",
+                   "Strongly agree"
+               ]
+            },
+            {
+               "qId":"q5",
+               "qText":"(My partner) caught my attention",
+               "qMandatory":"true",
+               "qOptions":[
+                   "Strongly disagree",
+                   "Disagree",
+                   "Somewhat disagree",
+                   "Neither agree nor disagree",
+                   "Somewhat agree",
+                   "Agree",
+                   "Strongly agree"
+               ]
+            },
+            {
+               "qId":"q6",
+               "qText":"I caught (my partner's) attention",
+               "qMandatory":"true",
+               "qOptions":[
+                   "Strongly disagree",
+                   "Disagree",
+                   "Somewhat disagree",
+                   "Neither agree nor disagree",
+                   "Somewhat agree",
+                   "Agree",
+                   "Strongly agree"
+               ]
+            }
+         ]
+      },
+      {
+         "pId":"page3",
+         "qType":"radio",
+         "qInstructions":"Please choose one of the following options...",
+         "qMandatory":"true",
+         "qData":[
+            {
+               "qId":"q7",
+               "qText":"My thoughts were clear to (my partner)",
+               "qMandatory":"true",
+               "qOptions":[
+                   "Strongly disagree",
+                   "Disagree",
+                   "Somewhat disagree",
+                   "Neither agree nor disagree",
+                   "Somewhat agree",
+                   "Agree",
+                   "Strongly agree"
+               ]
+            },
+            {
+               "qId":"q8",
+               "qText":"(My partner's) thoughts were clear to me",
+               "qMandatory":"true",
+               "qOptions":[
+                   "Strongly disagree",
+                   "Disagree",
+                   "Somewhat disagree",
+                   "Neither agree nor disagree",
+                   "Somewhat agree",
+                   "Agree",
+                   "Strongly agree"
+               ]
+            },
+            {
+               "qId":"q9",
+               "qText":"It was easy to understand (my partner)",
+               "qMandatory":"true",
+               "qOptions":[
+                   "Strongly disagree",
+                   "Disagree",
+                   "Somewhat disagree",
+                   "Neither agree nor disagree",
+                   "Somewhat agree",
+                   "Agree",
+                   "Strongly agree"
+               ]
+            }
+         ]
+      },
+      {
+         "pId":"page4",
+         "qType":"radio",
+         "qInstructions":"Please choose one of the following options...",
+         "qMandatory":"true",
+         "qData":[
+            {
+               "qId":"q10",
+               "qText":"(My partner) found it easy to understand me",
+               "qMandatory":"true",
+               "qOptions":[
+                   "Strongly disagree",
+                   "Disagree",
+                   "Somewhat disagree",
+                   "Neither agree nor disagree",
+                   "Somewhat agree",
+                   "Agree",
+                   "Strongly agree"
+               ]
+            },
+            {
+               "qId":"q11",
+               "qText":"Understanding (my partner) was difficult",
+               "qMandatory":"true",
+               "qOptions":[
+                   "Strongly disagree",
+                   "Disagree",
+                   "Somewhat disagree",
+                   "Neither agree nor disagree",
+                   "Somewhat agree",
+                   "Agree",
+                   "Strongly agree"
+               ]
+            },
+            {
+               "qId":"q12",
+               "qText":"(My partner) had difficulty understanding me",
+               "qMandatory":"true",
+               "qOptions":[
+                   "Strongly disagree",
+                   "Disagree",
+                   "Somewhat disagree",
+                   "Neither agree nor disagree",
+                   "Somewhat agree",
+                   "Agree",
+                   "Strongly agree"
+               ]
+            }
+         ]
+      },
+      {
+         "pId":"page5",
+         "qType":"linearGrid",
+         "qInstructions":"Please rate all measures by clicking a point on the scale.",
+         "qData":[
+            {
+               "qId":"q13",
+               "qText":"Mental Demand:				How mentally demanding was the task?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Low",
+               "qMax":"20",
+               "qMaxLabel":"High"
+            },
+            {
+               "qId":"q14",
+               "qText":"Physical Demand:				How physically demanding was the task?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Low",
+               "qMax":"20",
+               "qMaxLabel":"High"
+            },
+            {
+               "qId":"q15",
+               "qText":"Temporal Demand:		How hurried or rushed was the pace of the task?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Low",
+               "qMax":"20",
+               "qMaxLabel":"High"
+            }
+         ]
+      },
+      {
+         "pId":"page6",
+         "qType":"linearGrid",
+         "qInstructions":"Please rate all measures by clicking a point on the scale.",
+         "qData":[
+            {
+               "qId":"q16",
+               "qText":"Performance:  How succesfull were you in accomplishing what you were asked to do?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Failure",
+               "qMax":"20",
+               "qMaxLabel":"Perfect"
+            },
+            {
+               "qId":"q17",
+               "qText":"Effort:  How hard did you have to work to accomplish your level of performance?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Low",
+               "qMax":"20",
+               "qMaxLabel":"High"
+            },
+            {
+               "qId":"q18",
+               "qText":"Frustration:  How insecure; discouraged; irritated; stressed; and annoyed were you?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Low",
+               "qMax":"20",
+               "qMaxLabel":"High"
+            }
+         ]
+      },
+      {
+         "pId":"page7",
+         "qType":"radio",
+         "qInstructions":"Please choose one of the following options...",
+         "qData":[
+            {
+               "qId":"q19",
+               "qText":"I think that I would like to use this system frequently...",
+               "qMandatory":"true",
+               "qOptions":[
+                  "",
+                  "Strongly Disagree",
+                  "Disagree",
+                  "Neutral",
+                  "Agree",
+                  "Strongly Agree",
+                  ""
+               ]
+            },
+            {
+               "qId":"q20",
+               "qText":"I found the system unnecessarily complex...",
+               "qMandatory":"true",
+               "qOptions":[
+                  "",
+                  "Strongly Disagree",
+                  "Disagree",
+                  "Neutral",
+                  "Agree",
+                  "Strongly Agree",
+                  ""
+               ]
+            },
+            {
+               "qId":"q21",
+               "qText":"I thought the system was easy to use...",
+               "qMandatory":"true",
+               "qOptions":[
+                  "",
+                  "Strongly Disagree",
+                  "Disagree",
+                  "Neutral",
+                  "Agree",
+                  "Strongly Agree",
+                  ""
+               ]
+            }
+         ]
+      },
+      {
+         "pId":"page8",
+         "qType":"radio",
+         "qInstructions":"Please choose one of the following options...",
+         "qData":[
+            {
+               "qId":"q22",
+               "qText":"I think that I would need the support of a technical person to be able to use this system...",
+               "qMandatory":"true",
+               "qOptions":[
+                  "",
+                  "Strongly Disagree",
+                  "Disagree",
+                  "Neutral",
+                  "Agree",
+                  "Strongly Agree",
+                  ""
+               ]
+            },
+            {
+               "qId":"q23",
+               "qText":"I found the various functions in this system were well integrated...",
+               "qMandatory":"true",
+               "qOptions":[
+                  "",
+                  "Strongly Disagree",
+                  "Disagree",
+                  "Neutral",
+                  "Agree",
+                  "Strongly Agree",
+                  ""
+               ]
+            },
+            {
+               "qId":"q24",
+               "qText":"I thought there was too much inconsistency in this system...",
+               "qMandatory":"true",
+               "qOptions":[
+                  "",
+                  "Strongly Disagree",
+                  "Disagree",
+                  "Neutral",
+                  "Agree",
+                  "Strongly Agree",
+                  ""
+               ]
+            }
+         ]
+      },
+      {
+         "pId":"page9",
+         "qType":"radio",
+         "qInstructions":"Please choose one of the following options...",
+         "qData":[
+            {
+               "qId":"q25",
+               "qText":"I would imagine that most people would learn to use this system very quickly...",
+               "qMandatory":"true",
+               "qOptions":[
+                  "",
+                  "Strongly Disagree",
+                  "Disagree",
+                  "Neutral",
+                  "Agree",
+                  "Strongly Agree",
+                  ""
+               ]
+            },
+            {
+               "qId":"q26",
+               "qText":"I found the system very cumbersome to use...",
+               "qMandatory":"true",
+               "qOptions":[
+                  "",
+                  "Strongly Disagree",
+                  "Disagree",
+                  "Neutral",
+                  "Agree",
+                  "Strongly Agree",
+                  ""
+               ]
+            },
+            {
+               "qId":"q27",
+               "qText":"I felt very confident using the system...",
+               "qMandatory":"true",
+               "qOptions":[
+                  "",
+                  "Strongly Disagree",
+                  "Disagree",
+                  "Neutral",
+                  "Agree",
+                  "Strongly Agree",
+                  ""
+               ]
+            }
+         ]
+      },
+      {
+         "pId":"page10",
+         "qType":"radio",
+         "qInstructions":"Please choose one of the following options...",
+         "qData":[
+            {
+               "qId":"q28",
+               "qText":"I needed to learn a lot of things before I could get going with this system...",
+               "qMandatory":"true",
+               "qOptions":[
+                  "",
+                  "Strongly Disagree",
+                  "Disagree",
+                  "Neutral",
+                  "Agree",
+                  "Strongly Agree",
+                  ""
+               ]
+            }
+         ]
+      }
+   ],
+   "qMessage":"You have completed the questionnaire",
+   "qAcknowledgments":"Thank you very much for taking part in the experiment! We appreciate your time!"
+}

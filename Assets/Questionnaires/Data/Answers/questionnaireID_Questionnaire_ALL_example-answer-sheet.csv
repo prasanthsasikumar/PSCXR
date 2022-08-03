@@ -1,0 +1,30 @@
+QuestionType,Question,QuestionID,Answer_Participant_1_condition_C,Answer_Participant_1_condition_C
+radio,I noticed (my partner):,q1,4,4
+radio,(My Partner) noticed me,q2,4,4
+radio,(My Partner's) presence was obvious to me,q3,5,5
+radio,My presence was obvious to (my partner),q4,4,3
+radio,(My partner) caught my attention,q5,4,5
+radio,I caught (my partner's) attention,q6,4,3
+radio,My thoughts were clear to (my partner),q7,4,4
+radio,(My partner's) thoughts were clear to me,q8,5,4
+radio,It was easy to understand (my partner),q9,4,5
+radio,(My partner) found it easy to understand me,q10,5,5
+radio,Understanding (my partner) was difficult,q11,4,5
+radio,(My partner) had difficulty understanding me,q12,5,5
+radio,How real did the virtual world seem to you?,q13,4,11
+radio,The virtual world seemed more realistic than the real world...,q14,4,8
+,15
+,9
+,9
+,15
+,3
+,4
+,3
+,4
+,3
+,4
+,4
+,4
+,4
+,3
+

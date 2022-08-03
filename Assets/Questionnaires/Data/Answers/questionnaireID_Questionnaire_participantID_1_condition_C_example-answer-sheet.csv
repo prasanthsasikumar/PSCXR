@@ -1,0 +1,30 @@
+QuestionType,Question,QuestionID,Answer
+radio,I noticed (my partner):,q1,4
+radio,(My Partner) noticed me,q2,4
+radio,(My Partner's) presence was obvious to me,q3,5
+radio,My presence was obvious to (my partner),q4,3
+radio,(My partner) caught my attention,q5,5
+radio,I caught (my partner's) attention,q6,3
+radio,My thoughts were clear to (my partner),q7,4
+radio,(My partner's) thoughts were clear to me,q8,4
+radio,It was easy to understand (my partner),q9,5
+radio,(My partner) found it easy to understand me,q10,5
+radio,Understanding (my partner) was difficult,q11,5
+radio,(My partner) had difficulty understanding me,q12,5
+linearGrid,Mental Demand:				How mentally demanding was the task?,q13,11
+linearGrid,Physical Demand:				How physically demanding was the task?,q14,8
+linearGrid,Temporal Demand:		How hurried or rushed was the pace of the task?,q15,15
+linearGrid,Performance:  How succesfull were you in accomplishing what you were asked to do?,q16,9
+linearGrid,Effort:  How hard did you have to work to accomplish your level of performance?,q17,9
+linearGrid,Frustration:  How insecure, discouraged, irritated, stressed, and annoyed were you?,q18,15
+radio,I think that I would like to use this system frequently...,q19,3
+radio,I found the system unnecessarily complex...,q20,4
+radio,I thought the system was easy to use...,q21,3
+radio,I think that I would need the support of a technical person to be able to use this system...,q22,4
+radio,I found the various functions in this system were well integrated...,q23,3
+radio,I thought there was too much inconsistency in this system...,q24,4
+radio,I would imagine that most people would learn to use this system very quickly...,q25,4
+radio,I found the system very cumbersome to use...,q26,4
+radio,I felt very confident using the system...,q27,4
+radio,I needed to learn a lot of things before I could get going with this system...,q28,3
+
